@@ -58,14 +58,13 @@ export default {
 
 ul {
   display: flex;
-  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .card {
   background-color: #222222;
   color: #F3EFE0;
   width: 20rem;
-  height: 20rem;
   margin: 10px;
   border-radius: 1rem;
   border: 1px solid black;

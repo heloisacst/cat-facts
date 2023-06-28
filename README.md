@@ -1,24 +1,11 @@
 # cat-facts
 
-## Project setup
+## Sobre este projeto
 ```
-npm install
-```
+Esta página foi feita para estudar o framework Vue.JS e em paralelo, buscar dados de duas APIs.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Link das APIs:
 
-### Compiles and minifies for production
+https://cat-fact.herokuapp.com
+https://api.thecatapi.com
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

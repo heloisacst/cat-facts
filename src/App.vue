@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <NavBar/>
+    <NavBar class="nav"/>
     <router-view/>
   </div>
 </template>
@@ -22,6 +22,11 @@ body {
   font-family: 'Montserrat', sans-serif;
   background-color: #434242;
   box-sizing: content-box;
+}
+
+ .nav {
+  justify-content: center;
+  
 }
 
 </style>
