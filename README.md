@@ -9,3 +9,6 @@ Link das APIs:
 https://cat-fact.herokuapp.com
 https://api.thecatapi.com
 ```
+## Para inciar o projeto:
+### npm install --save-dev @vue/cli-service
+### npm run dev
