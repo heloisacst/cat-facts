@@ -2,7 +2,7 @@
 
 ## Sobre este projeto
 ```
-Esta página foi feita para estudar o framework Vue.JS e em paralelo, buscar dados de duas APIs.
+Este projeto foi feito para estudar o framework Vue.JS e em paralelo, buscar dados de duas APIs.
 
 Link das APIs:
 
